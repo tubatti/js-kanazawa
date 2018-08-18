@@ -1,0 +1,18 @@
+.post_content.midashi{
+	padding:20px 5px 25px;
+	border-top:2px solid#57BDCC;
+	border-bottom:2px solid#57BDCC;
+	font-size:125%;
+}
+midashi1 {
+	height:24px;margin:0px 0px 5px 0px;padding:8px 0px 0px 15px;
+	font-size:16px;font-weight:bold;color:#444444;
+	background-image:url(http://japan-buddhism.com/kanazawa/wp-content/uploads/sites/36/2014/05/head017_02-300x15.png);
+}
+
+* {
+	font-family: "メイリオ"; 
+}
+
+
+
